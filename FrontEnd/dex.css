@@ -1,0 +1,12 @@
+
+@media (max-width: 600px) {
+
+    nav,
+    article,
+    .header,
+    .container,
+    section {
+        width: 100%;
+        height: auto;
+    }
+}
