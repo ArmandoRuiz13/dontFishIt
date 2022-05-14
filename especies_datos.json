@@ -1,9 +1,9 @@
 {
-    "nombre": "atun",
-    "poblacion-actual": "1000",
-    "estadosmascantidad": [
-        "Mazatlan",
-        "Cancun"
-      ],
-    "tasaconsumoanual": "500mdp"
-  }
+  "nombre": "atun",
+  "poblacion-actual": "1000",
+  "estadosmascantidad": [
+    "Mazatlan",
+    "Cancun"
+  ],
+  "tasaconsumoanual": "500mdp"
+}
