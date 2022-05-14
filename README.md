@@ -2,7 +2,7 @@
 # :fish:HACK THE OCEAN by M.A.Y.D.E.
 
 
-### Integrantes: v1
+### Integrantes: 
 
 1.Moisés Mendoza
 
