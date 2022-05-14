@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ArmandoRuiz13/dontFishIt#readme",
   "devDependencies": {
+    "eslint": "^8.15.0",
     "jest": "^28.1.0"
   },
   "dependencies": {
