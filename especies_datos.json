@@ -1,10 +1,23 @@
-{
+[{
   "id": "1",
-  "nombre": "atun",
-  "poblacion-actual": "1000",
-  "estadosmascantidad": [
-    "Mazatlan",
-    "Cancun"
-  ],
-  "tasaconsumoanual": "500mdp"
+  "nombre": "Atun",
+  "capturas-anuales": "6 millones de toneladas",
+  "disminucion de poblacion":"80%",
+  "consumo-medio-anual":"0.5Kg",
+  "habitat": [
+    "Ecosistemas pelágicos del océano Atlántico y mares adyacentes", 
+    "Mar Mediterráneo."
+  ]
+},
+{
+  "id": "2",
+  "nombre": "Bacalao de profundidad",
+  "capturas-anuales": "2 millones de toneladas",
+  "disminucion de poblacion":"80%",
+  "habitat": [
+    "Atlantico",
+    "Antartico",
+    "Pacifico"
+  ]
 }
+]
