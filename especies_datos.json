@@ -2,9 +2,9 @@
   "id": "1",
   "nombre": "Atun",
   "capturas-anuales": "6 millones de toneladas",
-  "descripcion": "",
+  "descripcion": "Una de las especies más consumidas, ido en Su gran demanda está llevando a que se cometan actividades ilegales como la pesca pirata y la no declaración real de las capturas.",
   "habitat": [
-    "Ecosistemas pelágicos del océano Atlántico y mares adyacentes", 
+    "Atlántico", 
     "Mar Mediterráneo."
   ]
 },
@@ -12,10 +12,55 @@
   "id": "2",
   "nombre": "Bacalao de profundidad",
   "capturas-anuales": "2 millones de toneladas",
-  "descripcion": "",
+  "descripcion": "Habita en zonas profundas, de crecimiento lento y que no alcanza la madurez sexual hasta los 9 ó 10 años. Estas características hacen que los stocks de esta especie sean altamente vulnerables a la presión pesquera",
   "habitat": [
     "Atlantico",
     "Antartico",
+    "Pacifico"
+  ]
+},
+{
+  "id": "3",
+  "nombre": "Langostino",
+  "capturas-anuales": "",
+  "descripcion": "Debido a las redes de arrastre, que dan lugar a una enorme cantidad de desperdicio por pesca accidental de especies no deseadas,como el langostino",
+  "habitat": [
+    "Atlantico",
+    "Mediterraneo",
+    "Oceano Indico"
+  ]
+},
+{
+  "id": "4",
+  "nombre": "Rape",
+  "capturas-anuales": "",
+  "descripcion": "El Rape tarde en alcanzar su madurez, lo que lo hace vulnerable a a pesca de arrastre, la cual causa graves impactos tanto en el fondo marino como numerosas especies que son capturadas accidentalmente, sin que muchas de ellas hayan alcanzado la madurez",
+  "habitat": [
+    "Atlantico" ,
+    "Mediterraneo"   
+  ]
+},
+{
+  "id": "5",
+  "nombre": "Pez Espada",
+  "capturas-anuales": "",
+  "descripcion": "Alcanzan su madurez entre los 5 y 6 años, juega un papel regulador de otras poblaciones, es una especie muy acechada por la sobrepesca, capturandolos cada vez más inmaduros",
+  "habitat": [
+    "Atlantico",
+    "Mediterraneo",
+    "Indico",
+    "Pacifico"
+  ]
+},
+{
+  "id": "6",
+  "nombre": "Merluza",
+  "capturas-anuales": "",
+  "descripcion": "Se pesca con redes de arrastre, y también con palangres y redes de malla. Las distintas especies de merluza sufren un agotamiento muy notable, al ser una de las especies más consumidas en distintos países.",
+  "habitat": [
+    "Atlantico",
+    "Mediterraneo",
+    "Indico",
     "Pacifico"
   ]
 }
