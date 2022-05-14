@@ -16,7 +16,7 @@
     text-align: center;
     font-size: 7vh;
     color: rgb(255, 255, 255);
-    background: rgba(29, 29, 29, 0.493);
+    background: rgba(29, 29, 29, 0);
     padding: 2vh 0vh 2vh 0vh;
 }
 .subtitle{
@@ -46,12 +46,21 @@ nav ul {
 .DidUKnow{
     background: #ffd90296;
     width: 100%;
-    height: 50vh;
+    height: 100vh;
 }
 .DUK_div{
-    background: #67ff0296;
+    background: #67ff0267;
     width: 100%;
     height: 10vh;
+}
+.buttonDUK{
+    width: 25%;
+    height: 100%;
+    text-align: left;
+    font-size: 5vh;
+    border-style: hidden;
+    padding: 2vh 0vh 2vh 12vh;
+    background: #FFD802;
 }
 
 @media (max-width: 600px) {
