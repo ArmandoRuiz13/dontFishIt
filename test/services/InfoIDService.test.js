@@ -1,4 +1,4 @@
-const InfoID = require('./../../lib/services/InfoID')
+const InfoID = require('./../../lib/services/InfoIDService')
 const Reader = require("./../../lib/utils/Reader");
 const especiesInfo = Reader.readJsonFile("especies_datos.json");
 
