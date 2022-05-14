@@ -1,0 +1,19 @@
+{
+  "name": "dontfishit",
+  "version": "1.0.0",
+  "description": "Hack the ocean \"Sobrepesca\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArmandoRuiz13/dontFishIt.git"
+  },
+  "author": "MAIDE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArmandoRuiz13/dontFishIt/issues"
+  },
+  "homepage": "https://github.com/ArmandoRuiz13/dontFishIt#readme"
+}
