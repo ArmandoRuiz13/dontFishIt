@@ -1,3 +1,58 @@
+*{
+    box-sizing: border-box;
+}
+.body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.header .container {
+    overflow:visible;
+    background:#024D8C;
+    padding: 0 0 0 0;
+}
+
+.titulo,.subtitle{
+    float: left;
+    width:fit-content;
+    text-align: center;
+    font-size: 7vh;
+    color: rgb(255, 255, 255);
+    background: rgba(29, 29, 29, 0.493);
+    padding: 2vh 0vh 2vh 0vh;
+}
+.subtitle{
+    float: right;
+    font-size: 2.5vw;
+    align-items: left;
+    padding: 2vh 0vh 2vh 0vh;
+}
+.a{
+    background: rgba(133, 19, 19, 0);
+    padding: 0vh 4vh 0vh 0vh;
+}
+.header nav {
+    height: 100%;
+    width: 100%;
+    display: table;
+    float: center;
+  }
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+.logo {
+    width: 8vh;
+    padding: 0vh 0vh 0vh 2vh;
+}
+.DidUKnow{
+    background: #ffd90296;
+    width: 100%;
+    height: 50vh;
+}
+.DUK_div{
+    background: #67ff0296;
+    width: 100%;
+    height: 10vh;
+}
 
 @media (max-width: 600px) {
 
