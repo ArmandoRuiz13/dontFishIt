@@ -8,7 +8,7 @@
 
 2.Armando de Jesus Ruíz
 
-3.Iván Salazar
+3.Iván Salazar Bartolo
 
 4.Daniel Vallejo
 
