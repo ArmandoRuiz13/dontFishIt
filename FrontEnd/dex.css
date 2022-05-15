@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 .body {
-    
+    background-color: aqua;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .limit{
@@ -12,7 +12,7 @@
 }
 .header .container {
     overflow:visible;
-    background:#024D8C;
+    background:#153ec7;
     padding: 0 0 0 0;
 }
 
@@ -29,7 +29,7 @@
     float: right;
     font-size: 2.5vw;
     align-items: left;
-    padding: 2vh 0vh 2vh 0vh;
+    padding: 3vh 0vh 2vh 0vh;
 }
 .a{
     background: rgba(133, 19, 19, 0);
@@ -49,7 +49,7 @@ nav ul {
     width: 9vh;
     padding: 0vh 0vh 0vh 2vh;
 }
-.DidUKnow{
+.DidUKnow, .Goals, .FindFish{
     background: #ffd90296;
     width: 100%;
     height: 100vh;
@@ -92,6 +92,7 @@ nav ul {
     width: 100%;
     padding: 20% 10vh 20% 10vh;
 }
+
 
 @media (max-width: 1000px) {
 
