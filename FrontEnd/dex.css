@@ -1,18 +1,22 @@
 *{
     box-sizing: border-box;
+    background-image: url('./images/backG.jpg');
+    
 }
 .body {
-    background-color: aqua;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.p{
+    background: #0f162c00;
 }
 .limit{
     width: 100%;
     padding: 0% 10% 0% 10%;
-    background-color: #024D8C;
+    background: #fffff1af;
 }
 .header .container {
     overflow:visible;
-    background:#153ec7;
+    background:#0d0e02d0;
     padding: 0 0 0 0;
 }
 
@@ -22,7 +26,7 @@
     text-align: center;
     font-size: 7vh;
     color: rgb(255, 255, 255);
-    background: rgba(29, 29, 29, 0);
+    background: rgba(255, 255, 255, 0);
     padding: 2vh 0vh 2vh 0vh;
 }
 .subtitle{
@@ -46,24 +50,23 @@ nav ul {
     padding: 0;
 }
 .logo {
-    width: 9vh;
+    width: 7.5vh;
     padding: 0vh 0vh 0vh 2vh;
+    background: #919faa00;
 }
 .DidUKnow, .Goals, .FindFish{
-    background: #ffd90296;
+    background: #ffd90200;
     width: 100%;
     height: 100vh;
 }
-
-
 .InfoDUK{
     width: 50%;
     height: 100%;
-    background: #8c028598;
+    background: #8c028500;
     float: left;
 }
 .DUK_div{
-    background: #67ff0267;
+    background: #67ff0200;
     width: 100%;
     height: 30%;
     
@@ -71,27 +74,48 @@ nav ul {
 .buttonDUK{
     width:100%;
     height: 100%;
-    background-image: url('./images/DUK.jpg');
-    background-size: 50%;
-    
+    background-image: url('./images/DUK21.png');
+    background-size: 48vh;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-color: rgba(240, 248, 255, 0);
     text-align: left;
     font-size: 5vh;
     border-style: hidden;
     padding: 0vh 0vh 0vh 0vh;
+    
 }
 .DUK_info{
     width: 100%;
-    background: #1f79c4c9;
+    background-image: url('./images/notasr2.png');
+    background-repeat: no-repeat;
+    background-size:100%;
     height: 70%;
-    font-size: 5vh;
-    font-weight: 800;
-    padding: 5vh 5vh 5vh 5vh;
+    font-size:4vh;
+    text-justify: auto;
+    font-weight: 500;
+    padding: 10vh 5vh 0vh 10vh;
     overflow:auto;
 }
+
 .ImDUK{
     width: 100%;
-    padding: 20% 10vh 20% 10vh;
+    height: 100%;
+    padding: 20vh 10vh 20vh 10vh;
+    background-image: url('./images/dot.png');
 }
+.Metas{
+    background: #0d0e02d0;
+    width: 100%;
+    height: 15%;
+    padding: 1vh 35% 1vh 35%;
+}
+.goalOne,.goalOneIm{
+    width: 100%;
+    height: 100%;
+    background: #67ff02c0;
+}
+
 
 
 @media (max-width: 1000px) {
