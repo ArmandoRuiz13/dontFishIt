@@ -2,7 +2,13 @@
     box-sizing: border-box;
 }
 .body {
+    
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.limit{
+    width: 100%;
+    padding: 0% 10% 0% 10%;
+    background-color: #024D8C;
 }
 .header .container {
     overflow:visible;
@@ -40,7 +46,7 @@ nav ul {
     padding: 0;
 }
 .logo {
-    width: 8vh;
+    width: 9vh;
     padding: 0vh 0vh 0vh 2vh;
 }
 .DidUKnow{
@@ -48,28 +54,52 @@ nav ul {
     width: 100%;
     height: 100vh;
 }
+
+
+.InfoDUK{
+    width: 50%;
+    height: 100%;
+    background: #8c028598;
+    float: left;
+}
 .DUK_div{
     background: #67ff0267;
     width: 100%;
-    height: 10vh;
+    height: 30%;
+    
 }
 .buttonDUK{
-    width: 25%;
+    width:100%;
     height: 100%;
+    background-image: url('./images/DUK.jpg');
+    background-size: 50%;
+    
     text-align: left;
     font-size: 5vh;
     border-style: hidden;
-    padding: 2vh 0vh 2vh 12vh;
-    background: #FFD802;
+    padding: 0vh 0vh 0vh 0vh;
+}
+.DUK_info{
+    width: 100%;
+    background: #1f79c4c9;
+    height: 70%;
+    font-size: 5vh;
+    font-weight: 800;
+    padding: 5vh 5vh 5vh 5vh;
+    overflow:auto;
+}
+.ImDUK{
+    width: 100%;
+    padding: 20% 10vh 20% 10vh;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 1000px) {
 
     nav,
     article,
     .header,
     .container,
-    section {
+    section, .body {
         width: 100%;
         height: auto;
     }
