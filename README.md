@@ -104,7 +104,7 @@ Y bien, como podemos apreciar la problematica no es simple de resolver y referen
 ---
 Prototipo de menú principal: 
 <img width="1247" alt="image" src="./Menú.png">
-tiene animaciones y está pensado para mostrar frases acerca de la sobrepesca (incluídas en freses-didUKnow.json) además de mostrar datos de especies amenazadas (incluídas en especies_datos.json)
+Tiene animaciones y está pensado para mostrar frases acerca de la sobrepesca (incluídas en freses-didUKnow.json) además de mostrar datos de especies amenazadas (incluídas en especies_datos.json)
 ---
 
 Logotipo del proyecto:
@@ -122,7 +122,8 @@ Logotipo del proyecto:
 # :whale2: PROCESO DE DISEÑO 
 En el siguiente [**Archivo**](./Sobrepesca.pdf)
 
-Una de de la metodologias que descubrimos fue la siguiente:
+---
+# :whale2: Una de de la metodologias que descubrimos fue la siguiente:
 
 ==**Piensa**==
 
