@@ -95,9 +95,31 @@ Por tal motivo nos dimos a la tarea de conocer las causas y llegamos al punto de
 
 9.Sobrecapitalización de la Industria
 
+---
+<img width="1247" alt="image" src="./Draw.jpeg">
 
 
 Y bien, como podemos apreciar la problematica no es simple de resolver y referente a todas estas causas hemos descidido desarrollar una posible solución una herramienta que tenga las caracteristicas de resolver la mala **comunicación** que existe y que contenga la **información** que realmente necesita una persona para comenzar su viaje de **__Ser Inconsciente a un estado constante de ser consciente.__**
+
+---
+Prototipo de menú principal, tiene animaciones y está pensado para mostrar frases acerca de la sobrepesca (incluídas en freses-didUKnow.json) además de mostrar datos de especies amenazadas (incluídas en especies_datos.json)
+<img width="1247" alt="image" src="./Menú.png">
+---
+
+Logotipo del proyecto:
+<img width="1247" alt="image" src="./Logo.png">
+---
+
+# :whale2: ESCABILIDAD
+  
+  Se pensó en desarrollar un videojuego en el que se vea reflejado el cambio del encosistema (cambio de un fondo de color)
+  con unas imágenes de peces en peligro de sobrepesca y peces no amenazados.
+  
+  "Pescando" (haciendo clic sobre las imágenes dezplazándose), especies no amenazadas y lo mínimo de especies amenazadas para conservar el entorno y conservar el color de un ecosistema sano.
+---
+
+# :whale2: PROCESO DE DISEÑO 
+En el siguiente [**Archivo**](./Sobrepesca.pdf)
 
 Una de de la metodologias que descubrimos fue la siguiente:
 
@@ -117,34 +139,6 @@ Moverse es la expresión motriz natural de tu cuerpo.
 ==**Habla**==
 
 El habla es el medio que nos conecta con los demás seres vivos.
-
----
-Prototipo de menú principal, tiene animaciones y está pensado para mostrar frases acerca de la sobrepesca (incluídas en freses-didUKnow.json) además de mostrar datos de especies amenazadas (incluídas en especies_datos.json)
-<img width="1247" alt="image" src="./Menú.png">
-
----
----
-Logotipo del proyecto:
-<img width="1247" alt="image" src="./Logo.png">
-
----
----
-<img width="1247" alt="image" src="./Draw.jpeg">
-
----
-
-# :whale2: ESCABILIDAD
-  
-  Se pensó en desarrollar un videojuego en el que se vea reflejado el cambio del encosistema (cambio de un fondo de color)
-  con unas imágenes de peces en peligro de sobrepesca y peces no amenazados.
-  
-  "Pescando" (haciendo clic sobre las imágenes dezplazándose), especies no amenazadas y lo mínimo de especies amenazadas para conservar el entorno y conservar el color de un ecosistema sano.
-
----
-
-# :whale2: PROCESO DE DISEÑO 
-En el siguiente [**Archivo**](./Sobrepesca.pdf)
-
 
 Cuando conoces el significado de estas palabaras nos llevan a mantenernos conscientes en el trayecto que se llama tiempo.
 
