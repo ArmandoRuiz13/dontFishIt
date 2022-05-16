@@ -121,7 +121,9 @@ El habla es el medio que nos conecta con los demás seres vivos.
 
 
 ---
+<img width="1247" alt="image" src="./Draw.jpeg">
 
+---
 Cuando conoces el significado de estas palabaras nos llevan a mantenernos conscientes en el trayecto que se llama tiempo.
 
 y Así nace :
