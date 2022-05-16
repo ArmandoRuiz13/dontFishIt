@@ -142,8 +142,8 @@ Logotipo del proyecto:
 
 ---
 
-# :whale2: PROCESO DE DISEÑO En el siguiente
-[**Archivo**](./Sobrepesca.pdf)
+# :whale2: PROCESO DE DISEÑO 
+En el siguiente [**Archivo**](./Sobrepesca.pdf)
 
 
 Cuando conoces el significado de estas palabaras nos llevan a mantenernos conscientes en el trayecto que se llama tiempo.
