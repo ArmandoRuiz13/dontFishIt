@@ -102,8 +102,9 @@ Por tal motivo nos dimos a la tarea de conocer las causas y llegamos al punto de
 Y bien, como podemos apreciar la problematica no es simple de resolver y referente a todas estas causas hemos descidido desarrollar una posible solución una herramienta que tenga las caracteristicas de resolver la mala **comunicación** que existe y que contenga la **información** que realmente necesita una persona para comenzar su viaje de **__Ser Inconsciente a un estado constante de ser consciente.__**
 
 ---
-Prototipo de menú principal, tiene animaciones y está pensado para mostrar frases acerca de la sobrepesca (incluídas en freses-didUKnow.json) además de mostrar datos de especies amenazadas (incluídas en especies_datos.json)
+Prototipo de menú principal: 
 <img width="1247" alt="image" src="./Menú.png">
+tiene animaciones y está pensado para mostrar frases acerca de la sobrepesca (incluídas en freses-didUKnow.json) además de mostrar datos de especies amenazadas (incluídas en especies_datos.json)
 ---
 
 Logotipo del proyecto:
