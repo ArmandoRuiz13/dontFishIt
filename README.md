@@ -65,7 +65,6 @@ Fragmento tomado del libro [**GAIA**](https://drive.google.com/file/d/1jFUkWpdJJ
 
 ---
 
-
 # :whale2: CONTEXTO
 
 Para el que lo lea:
@@ -129,6 +128,13 @@ Cuando conoces el significado de estas palabaras nos llevan a mantenernos consci
 y Así nace :
 
 <marquee>**<-|-|-|-<  DontFishIt  <-|-|-|-<**<marquee>
+  
+# :whale2: ESCABILIDAD
+  
+  Se pensó en desarrollar un videojuego en el que se vea reflejado el cambio del encosistema (cambio de un fondo de color)
+  con unas imágenes de peces en peligro de sobrepesca y peces no amenazados.
+  
+  "Pescando" (haciendo clic sobre las imágenes dezplazándose), especies no amenazadas y lo mínimo de especies amenazadas para conservar el entorno y conservar el color de un ecosistema sano.
 
 
 
