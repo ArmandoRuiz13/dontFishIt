@@ -1,5 +1,5 @@
 
-# (VER RAMA FRONTEND TAMBIÉN) :fish: HACK THE OCEAN by M.A.Y.D.E.
+# (VER RAMA FRONTEND TAMBIÉN) :fish: HACK THE OCEAN by M.A.I.D.E.
 
 
 ### Integrantes: 
