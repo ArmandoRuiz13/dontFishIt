@@ -132,12 +132,7 @@ Logotipo del proyecto:
 <img width="1247" alt="image" src="./Draw.jpeg">
 
 ---
-Cuando conoces el significado de estas palabaras nos llevan a mantenernos conscientes en el trayecto que se llama tiempo.
 
-y Así nace :
-
-<marquee>**<-|-|-|-<  DontFishIt  <-|-|-|-<**<marquee>
-  
 # :whale2: ESCABILIDAD
   
   Se pensó en desarrollar un videojuego en el que se vea reflejado el cambio del encosistema (cambio de un fondo de color)
@@ -145,7 +140,16 @@ y Así nace :
   
   "Pescando" (haciendo clic sobre las imágenes dezplazándose), especies no amenazadas y lo mínimo de especies amenazadas para conservar el entorno y conservar el color de un ecosistema sano.
 
+---
+
+Proceso de diseño se documentó en el siguiente archivo: [**Proceso de diseño**](./Sobrepesca.pdf)
 
 
 
 
+Cuando conoces el significado de estas palabaras nos llevan a mantenernos conscientes en el trayecto que se llama tiempo.
+
+y Así nace :
+
+<marquee>**<-|-|-|-<  DontFishIt  <-|-|-|-<**<marquee>
+  
