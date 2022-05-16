@@ -118,7 +118,16 @@ Moverse es la expresión motriz natural de tu cuerpo.
 
 El habla es el medio que nos conecta con los demás seres vivos.
 
+---
+Prototipo de menú principal, tiene animaciones y está pensado para mostrar frases acerca de la sobrepesca (incluídas en freses-didUKnow.json) además de mostrar datos de especies amenazadas (incluídas en especies_datos.json)
+<img width="1247" alt="image" src="./Menu.jpeg">
 
+---
+---
+Logotipo del proyecto:
+<img width="1247" alt="image" src="./Logo.jpeg">
+
+---
 ---
 <img width="1247" alt="image" src="./Draw.jpeg">
 
